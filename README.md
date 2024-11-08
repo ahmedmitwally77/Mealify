@@ -9,7 +9,7 @@ Exciting News! 🎉 
 ✨ I'm thrilled to announce the launch of "Mealify" – my latest project crafted as Assignment-3 at Route! 🌟
 
 Mealify is a responsive web app designed for food lovers who want an easy, elegant way to browse meal options. Built entirely with HTML, CSS, and media queries, Mealify showcases how powerful simple web technologies can be for creating engaging, user-friendly designs across all devices
- 
+
 📌-Technologies Used:
 - Html
 - Css
@@ -25,15 +25,15 @@ Don't forget to give me your feedback ❤️
 Stay tuned for future updates! 😊
 
 🔗 Demo: 
-https://lnkd.in/dRtjB-T5
+(https://ahmedmitwally77.github.io/Mealify/)
 
 🔗 Repo:
-https://lnkd.in/d-wwgbJB
+https://github.com/ahmedmitwally77/Mealify
 
 ------
 
 🔗 My account on GitHub :
-https://lnkd.in/dvei9dAh
+https://github.com/ahmedmitwally77
 
 
 
