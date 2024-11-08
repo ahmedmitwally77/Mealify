@@ -1,0 +1,278 @@
+/*& container */
+
+/* X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 576px) {
+  .container {
+    max-width: 100%;
+  }
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 768px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 992px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1200px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+/* X-Large devices (large desktops, less than 1400px) */
+@media (max-width: 1400px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+/* XX-Large devices (larger desktops) */
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1420px;
+  }
+}
+
+/* &start Header */
+
+@media (min-width: 1200px) {
+  header .container {
+    min-height: 100vh;
+  }
+}
+
+@media (max-width: 992px) {
+  header .container {
+    flex-direction: column-reverse;
+    justify-content: center;
+  }
+
+  header .home-right img {
+    width: 60%;
+  }
+
+  header .container>* {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  header .home-left {
+    margin-top: 20px;
+  }
+
+  header .home-left h2 {
+    font-size: 32px;
+  }
+
+  header .home-left h2+p {
+    margin: 10px 0;
+    line-height: 1.1;
+  }
+
+  header .btn {
+    --border-reduis: 100vh;
+    border-radius: var(--border-reduis);
+  }
+
+}
+
+@media (max-width: 576px) {
+  header .buttons {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+  }
+}
+
+/* &end Header */
+
+/** start navbar */
+@media (max-width: 1200px) {
+  .navbar .container {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+
+  .navbar .logo {
+    width: 100%;
+    padding-top: 5px;
+  }
+
+  .navbar ul {
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .navbar .dark-mode {
+    position: absolute;
+    top: 0;
+  }
+
+  header .container {
+    padding-top: 150px;
+  }
+}
+
+/** end navbar */
+
+/*~ Start Chefs */
+
+@media (760px <=width <=1200px) {
+  .chefs .card {
+    width: 50%;
+  }
+}
+
+@media (760px > width) {
+  .chefs .card {
+    width: 100%;
+  }
+}
+
+@media (max-width: 576px) {
+  .chefs picture::after {
+    bottom: -15px;
+  }
+}
+
+/*~ End Chefs */
+
+/*^ start Gallery */
+
+@media (max-width: 1400PX) {
+  .gallery .gallery-photos {
+    height: 1025px;
+  }
+}
+
+@media (max-width: 992pX) {
+  .gallery .gallery-photos {
+    height: 1400px;
+  }
+
+  .gallery .gallery-photos picture {
+    width: 45%;
+  }
+
+  .gallery .pizza {
+    order: 1;
+  }
+
+  .gallery .burger {
+    order: 2;
+  }
+
+  .gallery .pizza-slices {
+    order: 3;
+  }
+
+  .gallery .omelette {
+    order: 4;
+  }
+
+  .gallery .steak {
+    order: 5;
+  }
+
+  .gallery .fried {
+    order: 6;
+  }
+
+  .gallery .kofta {
+    order: 7;
+  }
+
+}
+
+@media (876px <=width <992px) {
+  .gallery .gallery-photos {
+    height: 1611px;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .gallery .gallery-photos {
+    height: auto;
+  }
+
+  .gallery .gallery-photos picture {
+    width: 100%;
+  }
+}
+
+/*^ end Gallery */
+
+/*? start Conatct */
+
+@media screen and (max-width: 768px) {
+  .contact .boxes .box {
+    width: 100%;
+  }
+
+  .contact .form input {
+    width: 100% !important;
+  }
+
+  .contact .boxes .box .box-icon i {
+    font-size: 16px;
+  }
+}
+
+/*? end Conatct */
+
+/*! start footer  */
+
+@media (max-width: 1200PX) {
+  .footer .footer-one {
+    width: 48%;
+  }
+
+  .footer .footer-two {
+    width: 100%;
+    order: 3;
+    margin-top: 10px;
+  }
+
+  .footer .footer-three {
+    width: 48%;
+  }
+}
+
+@media (max-width: 786PX) {
+  .footer .footer-one {
+    width: 100%;
+  }
+
+  .footer .footer-two {
+    width: 100%;
+    order: 3;
+    margin-top: 10px;
+  }
+
+  .footer .footer-three {
+    width: 100%;
+  }
+}
+
+/*! end footer  */
