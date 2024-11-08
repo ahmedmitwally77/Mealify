@@ -49,5 +49,5 @@ HTML, CSS...
 
 ## Screenshots
 
-![App Screenshot](./images/images/homePageGit.png)
+![App Screenshot](./images/homePageGit.png)
 
