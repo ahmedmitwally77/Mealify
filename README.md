@@ -2,40 +2,38 @@
 # Hi, I'm Ahmed! 👋
 
 
-# Bakery
+# Mealify
 
-I'm excited to share my First website Task with Route about "Bakery Family". 😊🤎
+Exciting News! 🎉 
 
-📌- Simple project Built By HTML & CSS .
+✨ I'm thrilled to announce the launch of "Mealify" – my latest project crafted as Assignment-3 at Route! 🌟
 
-It’s training on float & clear ,display: inline-block 
+Mealify is a responsive web app designed for food lovers who want an easy, elegant way to browse meal options. Built entirely with HTML, CSS, and media queries, Mealify showcases how powerful simple web technologies can be for creating engaging, user-friendly designs across all devices
+ 
+📌-Technologies Used:
+- Html
+- Css
+- Font Awesome for Icons
+- Google Fonts
+- Smooth Transitions and hover
+- Fully Responsive Design
+-- Animation
+📱 Fully responsive website! ✅
+💪 It's training Flexbox.
+🌙 it supports dark mode
+Don't forget to give me your feedback ❤️ 
+Stay tuned for future updates! 😊
 
-📌-It’s Not Responsive ❌ 
+🔗 Demo: 
+https://lnkd.in/dRtjB-T5
 
- Don't forget to give me your feedback ❤️
-
- 
-
-
-
-
+🔗 Repo:
+https://lnkd.in/d-wwgbJB
 
 ------
 
-
-
-
-
-🔗 Demo: 
-
-https://ahmedmitwally77.github.io/Bakery/
-
-
-
-
-
-
-
+🔗 My account on GitHub :
+https://lnkd.in/dvei9dAh
 
 
 
@@ -51,5 +49,5 @@ HTML, CSS...
 
 ## Screenshots
 
-![App Screenshot](./images/images/bakeryHomePage.png)
+![App Screenshot](./images/images/homePageGit.png)
 
